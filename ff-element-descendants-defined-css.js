@@ -7,7 +7,11 @@
 * Result is returned as an object. 
 *
 * Confirmed working on Firefox 133.0.3. 
-* May work on other versions or other browsers*/
+* May work on other versions or other browsers.
+*
+* Note that this function runs slowly and it may
+* sit for a few minutes and appear not to be doing 
+* anything before the output appears. */
 
 (function() {
     let selected = $0;

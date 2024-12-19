@@ -26,6 +26,7 @@ A browser console script that extracts all computed CSS styles for a selected el
 3. Copy and paste the script into the Console
 4. Run the script
 5. The output will be a formatted list of CSS rules for the selected element and all its descendants
+6. Note that this function runs slowly and it may sit for a few minutes and appear not to be doing anything before the output appears. Be patient.
 
 ### ff-element-descendants-defined-css.js
 A browser console script that extracts only explicitly defined CSS styles for a selected element and its descendants. This includes:
