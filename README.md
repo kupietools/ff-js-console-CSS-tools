@@ -1,4 +1,4 @@
-# Firefox Browser Console CSS Utils
+# Firefox JS Console CSS Utils
 
 A collection of utility scripts for analyzing CSS in Firefox's Developer Tools.
 
